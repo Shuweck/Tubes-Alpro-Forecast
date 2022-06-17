@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 # show welcome message
 print("Welcome to Weather Report")
 # this is to show that application is running
-# the message should contain the name of the application, creator name & email
 
 
 # interact with the user
