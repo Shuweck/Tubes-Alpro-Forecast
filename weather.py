@@ -11,7 +11,7 @@ print("Welcome to Weather Report")
 # ask user to select one database (csv) to load, for now only one csv -- "Sample cuaca.csv"
 
 
-# give them options on what to choose, it's good to show what the application actually does
+# options on what to choose
 
 # list all available database
 print('1. db1.csv')
